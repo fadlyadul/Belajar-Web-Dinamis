@@ -64,9 +64,9 @@ if(isset($_GET['halaman']) &&  isset($_GET['kategori'])){
             <div class="list-group">
                 <a href="index.php?halaman=kategori" class="list-group-item list-group-item-action">Artikel</a>
                 <a href="index.php?halaman=komentar" class="list-group-item list-group-item-action">Komentar</a>
-                <a href="index.php?halaman=admin" class="list-group-item list-group-item-action">Admin</a>
-                <a href="index.php?halaman=profil" class="list-group-item list-group-item-action">Profil</a>
-                <a href="logout.php" class="list-group-item list-group-item-action">Logout</a>
+                <a href="index.php?halaman=admin" class="list-group-item list-group-item-action">Admin 1</a>
+                <a href="index.php?halaman=profil" class="list-group-item list-group-item-action">Profil Admin</a>
+                <a href="logout.php" class="list-group-item list-group-item-action">Keluar</a>
             </div>
         </div> 
         <div class="col-sm-10">
